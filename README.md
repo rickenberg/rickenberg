@@ -1,15 +1,15 @@
 ### Coding
 
-I started coding on my Commodore 64 as a teenager and was since then fascinated by writing code. After almost a decade with building and troubleshooting electronic circuits as well as assembler programming I studied IT engineering and switched career into software development. In 2005 I started working with Microsoft technologies, primarily ASP.NET and in 2007 working with SharePoint. I settled down in Copenhagen, Denmark, and I am working for a local consulting company with SharePoint, Office365, Microsoft Azure and related technologies.
+I started coding on my Commodore 64 as a teenager and was since then fascinated by writing code. After almost a decade with building and troubleshooting electronic circuits as well as assembler programming I studied IT engineering and switched career into software development. In 2005 I started working with Microsoft technologies, primarily ASP.NET and in 2007 working with SharePoint. I settled down in Copenhagen, Denmark, and I am working with .NET/AngularJS/React development, Microsoft Azure and related technologies.
 
 ### Public speaking
 
-Once in a while you can find me on a tech conference, SharePoint saturday or user group meeting. Here is a brief history:
+Once in a while you can find me on a tech conference, SharePoint Saturday or user group meeting. Here is a brief history:
 
-- 2017 May, Dansih SharePoint User Group in Copenhagen: Office 365 Dev Camp
+- 2017 May, Danish SharePoint User Group in Copenhagen: Office 365 Dev Camp
 - 2016 November, Danish SharePoint User Group in Copenhagen: Office 365 Dev Camp
 - 2016 August, Danish SharePoint User Group in Copenhagen: Office 365 Dev Camp
-- 2014 November, Microsoft Campus Days in Copenhagen: Automatiserede SharePoint Deployments
+- 2014 November, Microsoft Campus Days in Copenhagen: SharePoint Deployments Automated
 - 2014 January, SharePoint Saturday in Stockholm: SharePoint 2013 Workflows Ups and Downs
 
 ### My Contributions
